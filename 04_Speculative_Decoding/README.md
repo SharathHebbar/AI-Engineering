@@ -4,7 +4,7 @@ Speculative decoding is an optimization technique for inference that makes educa
 
 ## Architecture
 
-![Speculative Decoding](Assets/speculative decoding.png)
+![Speculative Decoding](https://github.com/SharathHebbar/AI-Engineering/blob/main/04_Speculative_Decoding/Assets/speculative%20decoding.png)
 
 ## Run and Test the app
 
